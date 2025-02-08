@@ -2,9 +2,21 @@
 
 This project is a simple calculator application built with React.
 
-## Getting Started with Create React App
+## Features
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- Basic arithmetic operations: addition, subtraction, multiplication, and division
+- Clear and reset functionality
+- Responsive design
+
+## Getting Started
+
+To get started with the project, clone the repository and install the dependencies:
+
+```bash
+git clone https://github.com/yourusername/calculator_app.git
+cd calculator_app
+npm install
+```
 
 ## Available Scripts
 
